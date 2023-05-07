@@ -10,7 +10,7 @@ class Student:
 students = [
     Student('Leif Enoksen', '@Leif Enoksen'),
     Student('Chris Hontos', '@Chris Hontos'),
-    Student('Michael Ibragimchayev', '@Michael Ibragimchayev'),
+    # Student('Michael Ibragimchayev', '@Michael Ibragimchayev'),
     Student('Samuel Peck', '@Sam Peck'),
     Student('Jamal Portericker', '@Jamal Portericker'),
     Student('Michoel Rivkin', '@Michoel'),
